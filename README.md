@@ -3,12 +3,12 @@
 - 🌱 I'm currently working as: Software Engineer
 - 👯 I'm looking to collaborate on: Open Source
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinu042&show_icons=true&theme=merko)
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinpatilgarad0011&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu042&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinpatilgarad0011&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=chinu042&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=nitinpatilgarad0011&abbreviated=true)
 
 ## Languages Proficient In:
 
