@@ -9,8 +9,14 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 Frontend Developer with 3+ years of experience building **modern**, **scalable**, and **real-time** web applications.
-- 🎯 Driven by a passion for crafting intuitive, fast, and accessible user experiences.
+- 🧑‍💻 A **Frontend Developer** who’s genuinely passionate (some say obsessed 😄) about clean UI, performance, and creating exceptional web experiences.
+- 🚀 I’ve spent the last 3+ years building **production-grade React.js applications** with TypeScript, scalable architecture, and beautiful interfaces.
+- 🎨 I treat frontend like a craft — from **pixel-perfect Figma designs** to **modular component systems** that scale across products.
+- 🧠 I enjoy turning complex problems into clean UI flows, especially in **real-time streaming dashboards**, **AI-integrated tools**, and **developer-focused features**.
+- 📚 I’m a self-driven learner who keeps up with the latest in JavaScript tooling, AI-assisted dev workflows, and UI performance.
+- 🤝 I care deeply about **code quality**, **team collaboration**, and **shipping products that users genuinely enjoy**.
+
+> 💡 **If it’s frontend, I’m all in. From design systems to animation, I love it all.**
 
 ---
 
