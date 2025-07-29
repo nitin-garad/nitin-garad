@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitin Patil Garad</h1>
-<h3 align="center">🚀 Frontend Engineer | React.js | TypeScript | UI/UX Enthusiast | Open to Opportunities</h3>
+<h3 align="center">🚀 Senior Frontend Engineer | React.js | Next.js | TypeScript | UI/UX Enthusiast | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Elegant+UI;Building+Real-Time+Web+Apps;Exploring+AI+%26+Automation;Frontend+Performance+Matters;Clean+Code+Fanatic;Always+Learning...&center=true&width=500&height=45">
 </p>
 
 ---
-
-### 👨‍💻 About Me
 
 ### 👨‍💻 About Me
 
