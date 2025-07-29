@@ -7,32 +7,44 @@
 
 ---
 
-### 🧠 Skills & Technologies
+## 💻 Tech Stack
 
-🚀 **Languages & Markup**  
-HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
-
-🎨 **Styling & CSS Frameworks**  
-Styled-components · Tailwind CSS · Bootstrap
-
-⚛️ **Frontend Libraries & Frameworks**  
-React.js (with Hooks) · Next.js · Redux Toolkit · React Query
-
-🔌 **API Integration & Data Handling**  
-RESTful APIs · GraphQL · Axios
-
-🔧 **Version Control & Collaboration**  
-Git · GitHub · GitLab
-
-🖌️ **UI/UX & Design Tools**  
-Figma · Zeplin · Canva · Storybook
-
-🗂️ **Project & Task Management**  
-Jira · Trello
-
-💻 **Development Environment**  
-Linux (Ubuntu) · Visual Studio Code · Chrome DevTools
-
+<table>
+  <tr>
+    <td><b>🚀 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 UI & Styling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ APIs & Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Dev Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
