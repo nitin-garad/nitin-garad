@@ -1,29 +1,77 @@
-### I am Nitin Garad, from India. Welcome to my :octocat: profile.
+<h1 align="center">Hi 👋, I'm Nitin Garad</h1>
+<h3 align="center">🚀 Senior Frontend Developer | React.js | Next.js | TypeScript | Real-time Dashboards | AI UI Tools</h3>
 
-- 🌱 I'm currently working as: Software Engineer
-- 👯 I'm looking to collaborate on: Open Source
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitin-garad&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-garad" />
+</p>
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinpatilgarad0011&show_icons=true&theme=merko)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinpatilgarad0011&layout=compact)
+### 🧑‍💻 About Me
 
+- 🔭 Currently working as a **Senior Frontend Developer**
+- 🌱 I specialize in building **real-time dashboards**, **AI-assisted UI tools**, and **scalable enterprise interfaces**
+- ⚡ I love integrating **Dash.js**, **WebSocket**, **OpenAI APIs**, and **Whisper** to build **next-gen productivity tools**
+- 🤝 I’m open to **collaboration** on open-source and side projects related to:
+  - Real-time UI/UX
+  - AI-based DevTools
+  - Frontend Automation Systems
 
-![](https://komarev.com/ghpvc/?username=nitinpatilgarad0011&abbreviated=true)
+---
 
-## Languages Proficient In:
+### 🧠 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+#### **Languages & Frameworks**:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
 
-## OS Expertise:
+#### **Backend & APIs**:
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-blue)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+#### **Streaming / AI / Real-time**:
+![Dash.js](https://img.shields.io/badge/Dash.js-darkgreen?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-black?style=flat)
 
-## Tools of the Trade:
+#### **Tools & DevOps**:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+---
 
-## 📫 How to reach me:
+### 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/chinmay-lavande-9a9a131a5/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40" /></a>
-<a href="https://twitter.com/Chinmay_042"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="40" height="40" /></a>
-<a href="https://www.reddit.com/user/cprogtist/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/reddit.png" alt="Reddit" title="Reddit" width="40" height="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin-garad&show_icons=true&theme=radical" alt="Nitin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-garad&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Projects I’m proud of
+
+- 🧠 **AI Interview Assistant** — Electron.js app using Whisper + OpenAI for real-time question answer display during Google Meet  
+- 🎥 **Live Video Stream Viewer** — MPEG-DASH + WebSocket player with overlay analytics (Dash.js + React)
+- 🛡 **License Manager UI** — Subscription/perpetual license handling dashboard with feature flags, usage tracking, and hardware binding
+
+---
+
+### 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitinpatilgarad0011/)
+- 💻 [Portfolio / Projects](#) <!-- Optional: Add your site if available -->
+
+---
+
+_Thanks for visiting my profile! 😊 Feel free to explore my projects and connect with me._
