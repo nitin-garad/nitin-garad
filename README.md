@@ -6,32 +6,34 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack
 
 <table>
   <tr>
     <td><b>🚀 Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>🎨 UI & Styling</b></td>
     <td>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Canvas-FF7139?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Zeplin-FFCC00?style=for-the-badge&logo=zeplin&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>⚙️ APIs & Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     </td>
@@ -41,6 +43,7 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     </td>
   </tr>
@@ -84,30 +87,6 @@
 - 🎯 Translated designs from **Figma & Zeplin** into **responsive, pixel-perfect UIs** with 98%+ design accuracy  
 - 🛡️ Managed over **500+ pull requests** with clean Git practices and zero major merge conflicts  
 - 📈 Applied **Agile methodology** across all sprints with **100% on-time delivery** and strong team velocity
-
----
-
-### 💻 Tech Stack
-
-#### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764abc?style=for-the-badge&logo=redux)
-
-#### 🎨 UI & Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Shadcn UI](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-#### ⚙️ APIs & Backend
-![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-
-#### 🛠️ Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
