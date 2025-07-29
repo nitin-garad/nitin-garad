@@ -24,10 +24,11 @@
     <td><b>🎨 UI & Styling</b></td>
     <td>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Canvas-FF7139?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Zeplin-FFCC00?style=for-the-badge&logo=zeplin&logoColor=black"/>
       <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
   <tr>
