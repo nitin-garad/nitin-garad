@@ -9,14 +9,17 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 A **Frontend Developer** who’s genuinely passionate (some say obsessed 😄) about clean UI, performance, and creating exceptional web experiences.
-- 🚀 I’ve spent the last 3+ years building **production-grade React.js applications** with TypeScript, scalable architecture, and beautiful interfaces.
-- 🎨 I treat frontend like a craft — from **pixel-perfect Figma designs** to **modular component systems** that scale across products.
-- 🧠 I enjoy turning complex problems into clean UI flows, especially in **real-time streaming dashboards**, **AI-integrated tools**, and **developer-focused features**.
-- 📚 I’m a self-driven learner who keeps up with the latest in JavaScript tooling, AI-assisted dev workflows, and UI performance.
-- 🤝 I care deeply about **code quality**, **team collaboration**, and **shipping products that users genuinely enjoy**.
+### 👨‍💻 About Me
 
-> 💡 **If it’s frontend, I’m all in. From design systems to animation, I love it all.**
+- I'm a **Frontend Developer** with over 3 years of experience building responsive and modern web applications using **React.js**, **TypeScript**, and other JavaScript frameworks.
+- I enjoy working on **clean, user-focused interfaces** and always aim to deliver applications that are both functional and visually polished.
+- I’ve had the opportunity to **lead frontend development** for multiple projects, where I collaborated with designers, backend developers, and QA teams to deliver features end-to-end.
+- I’m comfortable working directly with clients or stakeholders to understand requirements, suggest improvements, and deliver solutions that meet expectations.
+- I’ve also **mentored junior developers**, reviewed code regularly, and contributed to improving team efficiency and coding standards.
+- I prefer writing **reusable components**, maintaining consistency across UI, and ensuring smooth handoffs from design to development.
+- Used to working in **Agile environments**, I regularly participate in sprint planning, task breakdown, and on-time delivery.
+
+> 🌱 I'm passionate about frontend development and always open to learning, improving, and building better user experiences with every project.
 
 ---
 
