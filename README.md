@@ -7,6 +7,35 @@
 
 ---
 
+### 🧠 Skills & Technologies
+
+🚀 **Languages & Markup**  
+HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
+
+🎨 **Styling & CSS Frameworks**  
+Styled-components · Tailwind CSS · Bootstrap
+
+⚛️ **Frontend Libraries & Frameworks**  
+React.js (with Hooks) · Next.js · Redux Toolkit · React Query
+
+🔌 **API Integration & Data Handling**  
+RESTful APIs · GraphQL · Axios
+
+🔧 **Version Control & Collaboration**  
+Git · GitHub · GitLab
+
+🖌️ **UI/UX & Design Tools**  
+Figma · Zeplin · Canva · Storybook
+
+🗂️ **Project & Task Management**  
+Jira · Trello
+
+💻 **Development Environment**  
+Linux (Ubuntu) · Visual Studio Code · Chrome DevTools
+
+
+---
+
 ### 👨‍💻 About Me
 
 - I'm a **Frontend Developer** with over 3 years of experience building responsive and modern web applications using **React.js**, **TypeScript**, and other JavaScript frameworks.
