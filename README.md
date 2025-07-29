@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Senior Frontend Engineer | React.js | Next.js | TypeScript | UI/UX Enthusiast | Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Elegant+UI;Building+Real-Time+Web+Apps;Exploring+AI+%26+Automation;Frontend+Performance+Matters;Clean+Code+Fanatic;Always+Learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Leading+Frontend+with+React+%26+TypeScript;Passionate+about+Clean+UI+%26+UX;Building+Real-Time+Dashboards+%26+AI+Tools;Helping+Teams+Deliver+Faster+and+Better;Creating+Reusable+%26+Scalable+Components;Always+Learning+and+Improving&center=true&width=600&height=45">
 </p>
 
 ---
