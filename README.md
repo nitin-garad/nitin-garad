@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://nitin-garad-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20Click%20Here-%2300C853?style=for-the-badge" alt="Portfolio Link Button">
+  <a href="https://nitin-garad.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Portfolio-View%20Now-blue?style=for-the-badge" alt="Portfolio Link" />
   </a>
 </p>
 
