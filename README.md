@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Leading+Frontend+with+React+%26+TypeScript;Passionate+about+Clean+UI+%26+UX;Building+Real-Time+Dashboards+%26+AI+Tools;Helping+Teams+Deliver+Faster+and+Better;Creating+Reusable+%26+Scalable+Components;Always+Learning+and+Improving&center=true&width=600&height=45">
 </p>
 
+<p align="center">
+  <a href="https://nitin-garad-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
 ---
 ## 💻 Tech Stack
 
