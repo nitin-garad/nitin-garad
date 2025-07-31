@@ -6,21 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://nitin-garad-portfolio.vercel.app" target="_blank" rel="noopener noreferrer" style="
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background: linear-gradient(90deg, #00C9FF, #92FE9D);
-    border-radius: 8px;
-    text-decoration: none;
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
-    transition: all 0.3s ease-in-out;
-  ">
-    🚀 Visit My Portfolio
+  <a href="[https://your-portfolio-url.vercel.app](https://nitin-garad-portfolio.vercel.app/)" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
+
 
 
 ---
