@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://nitinpatilgarad.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Portfolio-FF4785?style=for-the-badge" alt="Portfolio Link" />
+  <a href="https://nitin-garad-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
-
 
 ---
 ## 💻 Tech Stack
