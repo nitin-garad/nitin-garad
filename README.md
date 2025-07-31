@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://nitinpatilgarad.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link" />
+    <img src="https://img.shields.io/badge/🔗%20Portfolio-FF4785?style=for-the-badge" alt="Portfolio Link" />
   </a>
 </p>
 
