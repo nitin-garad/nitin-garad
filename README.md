@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Patil Garad</h1>
+<h1 align="center">Hi 👋, I'm Nitin Garad</h1>
 <h3 align="center">🚀 Senior Frontend Engineer | React.js | Next.js | TypeScript | UI/UX Enthusiast | Open to Opportunities</h3>
 
 <p align="center">
